@@ -1,3 +1,4 @@
+print('Hello world')
 number = 3
 number =4
 number2 = 5
