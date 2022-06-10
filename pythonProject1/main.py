@@ -12,3 +12,4 @@ else:
     print('Цикл завершен, букв t ', count)
 
 print('Программа работает далше')
+print('Hello world')
